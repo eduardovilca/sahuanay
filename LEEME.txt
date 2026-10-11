@@ -1,0 +1,9 @@
+SAHUANAY V8
+
+Esta versión agrupa el material en familias visuales:
+1) Codos y curvas
+2) Abrazaderas y sujeción
+3) Sistemas completos y especiales
+4) Instalación y taller
+
+Sube la carpeta completa a Vercel o abre index.html manteniendo todos los archivos juntos.
